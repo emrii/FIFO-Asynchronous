@@ -1,0 +1,2 @@
+Asynchronous FIFO verilog RTL code.
+Future Scope: implementation of KPN (Kahn Process Networks) using Python scripting
